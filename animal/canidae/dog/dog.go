@@ -1,9 +1,8 @@
 package dog
 
 import (
-	"log"
-
 	"github.com/pprof-demo/constant"
+	"log"
 )
 
 type Dog struct {

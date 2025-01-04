@@ -1,3 +1,3 @@
-module gitgithub.com/pprof-demo
+module github.com/pprof-demo
 
 go 1.20
